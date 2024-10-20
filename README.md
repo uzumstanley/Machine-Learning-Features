@@ -51,10 +51,6 @@ In this repository, you’ll find code implementations and detailed explanations
 
 Feel free to contribute to this repository by adding new feature selection methods, improving existing code, or providing more examples.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any questions or discussions, reach out to me on GitHub or LinkedIn.
